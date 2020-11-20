@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Time here"
+        android:textSize="24sp" />
+    <Button
+        android:id="@+id/button_Showdatapickerdialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show DataPicker Dialog"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button_Showtimepicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show TimePicker"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button_ShowChoronometer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Chronometer"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button_Analogclock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Analog Clock"
+        android:textAllCaps="false"
+        android:textSize="18sp" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/mylayout"
+        android:orientation="vertical"></LinearLayout>
+</LinearLayout>

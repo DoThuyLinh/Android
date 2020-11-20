@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="array_Name">
+        <item>Trương Đăng Quang</item>
+        <item>Châu Trường Phát</item>
+        <item>Dỗ Thuỳ Linh</item>
+        <item>Lương Thị Thu</item>
+        <item>Đinh Văn Đức</item>
+        <item>Trần Ánh Kim</item>
+    </string-array>
+</resources>

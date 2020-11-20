@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/mn_book"
+            android:title="Thông tin sách"/>
+        <item android:id="@+id/mn_author"
+            android:title="Thông tin tác giả"/>
+        <item android:title="Tìm kiếm sách/tác giả"
+            android:id="@+id/mn_search"/>
+    </group>
+</menu>

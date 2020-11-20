@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">file</string>
+    <string name="nhapmoi">Nhập mới</string>
+    <string name="luu">Lưu</string>
+    <string name="mo">Mở</string>
+    <string name="nhapnoidung">Nhập nội dung</string>
+</resources>
